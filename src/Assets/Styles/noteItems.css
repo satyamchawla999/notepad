@@ -1,0 +1,40 @@
+.noteItems {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.itemRight {
+    width: 50%;
+    align-items: right;
+}
+
+.itemRight button{
+    display: block;
+    margin: 0px 0px 5px 0px;
+    background-color: white;
+    border: 1px solid #8065D0;
+    height: 20px;
+    width: 100px;
+    border-radius: 20px;
+    color: #5134A3;
+}
+
+.itemLeft {
+    width: 50%;
+}
+
+.itemLeft h2{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+    color: #5134A3;
+}
+
+.itemLeft p {
+    margin: 0;
+    padding: 0;
+    color: #8065D0;
+}

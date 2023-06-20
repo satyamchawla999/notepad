@@ -1,0 +1,32 @@
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: #8065D0;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+ height: 30px;
+ width: 500px;
+ border-radius: 30px ;
+ border: none;
+}
+
+.searchUser {
+    position: absolute;
+    display: flex;
+    top:80px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.userItems{
+    background-color: #F3F6FE;
+    width: 400px;
+}
+
+
+
